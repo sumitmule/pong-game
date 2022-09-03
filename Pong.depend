@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647957385 source:c:\users\sumit\desktop\codeblocks projects\pong\main.cpp
+	<iostream>
+	"raylib.h"
+
