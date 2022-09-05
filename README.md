@@ -24,6 +24,12 @@ In order to make changes to the code or to play the game you will need to instal
 You can refer to this link : [Raylib setup](https://youtu.be/a2IUxJFr8sg)
 
 You can directly download the .exe file and play the game (make sure you setup raylib first).  
+
+>Instructions about how to play the game :
+- Use W,S keys to control the player paddel (and arrow keays for 2 player mode).
+- Use the spacebar to go to the next level.
+- If you lose, the game restarts from level 1.
+- The difficulty increases as you move to the higher levels.  
 <br>
 
 ### Things implemented in this project :
