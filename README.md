@@ -16,7 +16,7 @@ This a Player vs PC version of the game. The code for 2 player version :video_ga
 <br>
 
 ### Screenshot : 
-<img src="https://github.com/sumitmule/pong-game/blob/757fd210c955c85cc9594bad23f4a6754def89f7/Screenshot%202022-09-03%20231728.png" width="450">
+![image](https://github.com/sumitmule/pong-game/assets/111048440/d9577262-addb-4eeb-9289-c023b1fdbeef)
 
 ### Instructions :
 
